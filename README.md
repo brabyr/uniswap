@@ -13,8 +13,6 @@ An open source interface for Uniswap -- a protocol for decentralized exchange of
 - Docs: [uniswap.org/docs/](https://uniswap.org/docs/)
 - Twitter: [@Uniswap](https://twitter.com/Uniswap)
 - Reddit: [/r/Uniswap](https://www.reddit.com/r/Uniswap/)
-- Email: [contact@uniswap.org](mailto:contact@uniswap.org)
-- Discord: [Uniswap](https://discord.gg/FCfyBSbCU5)
 - Whitepapers:
   - [V1](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)
   - [V2](https://uniswap.org/whitepaper.pdf)
@@ -23,7 +21,6 @@ An open source interface for Uniswap -- a protocol for decentralized exchange of
 ## Accessing the Uniswap Interface
 
 To access the Uniswap Interface, use an IPFS gateway link from the
-[latest release](https://github.com/Uniswap/uniswap-interface/releases/latest),
 or visit [app.uniswap.org](https://app.uniswap.org).
 
 ## Unsupported tokens
@@ -45,7 +42,3 @@ The Uniswap Interface supports swapping, adding liquidity, removing liquidity an
 - Add V2 liquidity: https://app.uniswap.org/#/add/v2
 - Migrate V2 liquidity to V3: https://app.uniswap.org/#/migrate/v2
 
-## Accessing Uniswap V1
-
-The Uniswap V1 interface for mainnet and testnets is accessible via IPFS gateways
-linked from the [v1.0.0 release](https://github.com/Uniswap/uniswap-interface/releases/tag/v1.0.0).
